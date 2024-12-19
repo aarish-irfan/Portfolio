@@ -1,2 +1,2 @@
 # Portfolio
-My fully responsive portfolio just using HTML &amp; CSS
+My 100% responsive portfolio just using HTML &amp; CSS
